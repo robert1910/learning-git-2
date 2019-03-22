@@ -1,0 +1,29 @@
+body {
+    background: #2ecc71;
+    margin:10px;
+    color:yellow;
+    font-family:Verdana, sans-serif;
+    border-style: solid;
+    margin:50px;
+    text-align:center;
+
+}
+
+h1  {
+    font-size: 40px;
+    margin:10px;
+   }
+   h2{
+    font-size: 40px;
+    margin:10px;
+
+   }
+p {  
+    text-align:justify;
+    font-size:bold;
+    font-size:20px;
+    margin:10px;
+    
+    
+    
+    }
